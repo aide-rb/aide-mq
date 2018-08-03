@@ -1,4 +1,5 @@
 # aide-mq
+[![Build Status](https://travis-ci.org/aide-rb/aide-mq.svg?branch=master)](https://travis-ci.org/aide-rb/aide-mq)
 
 Utility objects to ease usage of Bunny gem within Ruby applications
 
