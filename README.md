@@ -1,2 +1,7 @@
 # aide-mq
-A superset library for the `bunny` gem
+
+Utility objects to ease usage of Bunny gem within Ruby applications
+
+### TODO
+- containers
+- RPC server/clients
